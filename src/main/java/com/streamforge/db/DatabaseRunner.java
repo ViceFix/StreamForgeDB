@@ -1,4 +1,4 @@
-package com.vicefix.db;
+package com.streamforge.db;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

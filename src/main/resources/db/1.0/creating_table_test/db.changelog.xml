@@ -15,4 +15,10 @@
             );
         </sql>
     </changeSet>
+
+    <changeSet id="1.0.0.020" author="zharkov" runOnChange="false">
+        <sql>
+            DROP TABLE article;
+        </sql>
+    </changeSet>
 </databaseChangeLog>
